@@ -1,3 +1,4 @@
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=14913293)
 # Proyecto Genérico para `PreTeXt-CLI`
 
 Esta es una propuesta y ejemplo base con los requerimientos necesarios para editar un: libro, publicación o algún documento genérico, con [**PreTeXt**](https://pretextbook.org/). Usando [**Codespace de GitHub**](https://docs.github.com/en/codespaces) y asociándolo a este repositorio, lo que permitiría tener en la nube de GitHub, todo lo necesario para la edición y publicación del documento creado en el formato de preferencia: LaTeX, PDF, web-html, EPUB, cuaderno Jupyter, braille, etc.
