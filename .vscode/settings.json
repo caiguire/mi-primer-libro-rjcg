@@ -4,5 +4,8 @@
             "pattern": "**/source/**.ptx",
             "systemId": "/home/rjcg/.ptx/schema/pretext.rng"
         }
+    ],
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "main"
     ]
 }
